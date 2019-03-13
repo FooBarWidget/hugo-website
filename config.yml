@@ -1,0 +1,64 @@
+baseurl: "https://cloudnative.amsterdam/"
+title: "Cloud Native Day Amsterdam 2019"
+canonifyurls: true
+theme: "hugo-conference"
+
+GoogleAnalytics: "UA-134592754-1"
+
+params:
+  # Conference info
+  Name: "Cloud Native Day"
+  Description: "Cloud Native Community Day is a community-led conference for all Cloud Native applications and platforms"
+  Date: "June 14th 2019"
+  Price: "Free!" # If your event is free, just comment this line
+  Venue: "Pakhuis De Zwijger"
+  Address: " Piet Heinkade 179, 1019 HC"
+  City: "Amsterdam"
+  State: "The Netherlands"
+  Images: ["/img/background.jpg"]
+  GoogleMapsKey: "AIzaSyBIn3t-h0jnfK1qaYz-WOkr_lG3ku8jpjw"
+
+  # Active sections on the website to deactivate comment out with '#'
+  # you can also change order here and it will reflect on page
+  Sections:
+    - about
+    - location
+    - speakers
+    - schedule
+    - sponsors
+    - partners
+    - coc
+    - social
+    #- contact
+
+  # Titles which you can translate to other languages
+  Titles:
+    about: "About"
+    location: "Location"
+    speakers: "Speakers"
+    schedule: "Schedule"
+    sponsors: "Sponsors"
+    partners: "Partners"
+    contact: "Contact"
+    coc: "Code of Conduct"
+    social: "Social"
+
+  # The Call To Action button at the header,
+  # If you don't want this, just remove the callToAction property.
+  CallToAction:
+    text: "Register now!"
+    link: "http://register.example.com"
+
+  # List of Sponsors
+  Sponsors:
+
+  # List of Partners
+  Partners:
+    - name: "Container Solutions"
+      logo: "/img/cs.jpg"
+      url: "https://container-solutions.com/"
+
+  # The entire schedule
+  Schedule:
+    - name: "Check-in / Breakfast"
+      time: "9h00"
