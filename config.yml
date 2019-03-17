@@ -10,7 +10,7 @@ params:
   Name: "Cloud Native Day"
   Description: "Cloud Native Community Day is a community-led conference for all Cloud Native applications and platforms"
   Date: "June 14th 2019"
-  Price: "Free!" # If your event is free, just comment this line
+  Price: "" # If your event is free, just comment this line
   Venue: "Pakhuis De Zwijger"
   Address: "Piet Heinkade 179, 1019 HC"
   City: "Amsterdam"
