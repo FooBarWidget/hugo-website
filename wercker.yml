@@ -23,3 +23,7 @@ build:
     - arjen/hugo-build:
         version: "0.53"
         theme: hugo-conference
+    - lukevivier/gh-pages@0.2.1:
+        token: $GIT_TOKEN
+        domain: cloudnative.amsterdam
+        basedir: public
