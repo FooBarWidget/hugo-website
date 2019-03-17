@@ -23,6 +23,10 @@ build:
     - arjen/hugo-build:
         version: "0.53"
         theme: hugo-conference
+deploy:
+  steps:
+    - install-packages:
+        packages: git ssh-client
     - lukevivier/gh-pages@0.2.1:
         token: $GIT_TOKEN
         domain: cloudnative.amsterdam
