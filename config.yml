@@ -8,7 +8,7 @@ GoogleAnalytics: "UA-134592754-1"
 params:
   # Conference info
   Name: "Cloud Native Day"
-  Description: "Cloud Native Community Day is a community-led conference for all Cloud Native applications and platforms"
+  Description: "Cloud Native Day is a community-led conference for all Cloud Native applications and platforms"
   Date: "June 14th 2019"
   Price: "" # If your event is free, just comment this line
   Venue: "Pakhuis De Zwijger"
