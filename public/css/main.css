@@ -332,6 +332,15 @@ hr {
   position: relative;
 }
 
+.share {
+  width: 24px;
+  height: 24px;
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 10px;
+  cursor: pointer;
+}
+
 .content {
   padding: 50px 0;
 }
@@ -380,6 +389,17 @@ nav {
   position: fixed;
   width: 100%;
   z-index: 10;
+}
+
+.nav-share {
+  position: absolute;
+  right: 0;
+  top: 10px;
+  margin-right: 10px;
+  width: 24px;
+  height: 24px;
+	vertical-align: top;
+
 }
 
 .nav-item {
