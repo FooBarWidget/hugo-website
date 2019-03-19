@@ -391,15 +391,31 @@ nav {
   z-index: 10;
 }
 
-.nav-share {
+.nav-share-twitter {
   position: absolute;
   right: 0;
   top: 10px;
   margin-right: 10px;
-  width: 24px;
-  height: 24px;
-	vertical-align: top;
+  width: 25px;
+  height: 25px;
+}
 
+.nav-share-instagram {
+  position: absolute;
+  right: 0;
+  top: 10px;
+  margin-right: 40px;
+  width: 25px;
+  height: 25px;
+}
+
+.nav-share-slack {
+  position: absolute;
+  right: 0;
+  top: 10px;
+  margin-right: 70px;
+  width: 25px;
+  height: 25px;
 }
 
 .nav-item {
