@@ -409,6 +409,15 @@ nav {
   height: 25px;
 }
 
+.nav-share-slack {
+  position: absolute;
+  right: 0;
+  top: 10px;
+  margin-right: 70px;
+  width: 25px;
+  height: 25px;
+}
+
 .nav-item {
   display: inline-block;
   margin-right: 15px;
