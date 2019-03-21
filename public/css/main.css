@@ -412,10 +412,10 @@ nav {
 .nav-share-slack {
   position: absolute;
   right: 0;
-  top: 10px;
-  margin-right: 70px;
-  width: 25px;
-  height: 25px;
+  top: 0px;
+  margin-right: 63px;
+  width: 44px;
+  height: 44px;
 }
 
 .nav-item {
@@ -483,6 +483,11 @@ nav {
    ABOUT
    ========================================================================== */
 .about {
+  padding: 19px;
+  margin: 0 -20px 0;
+}
+
+.team {
   padding: 19px;
   margin: 0 -20px 0;
 }

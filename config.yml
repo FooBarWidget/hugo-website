@@ -26,6 +26,7 @@ params:
     - speakers
     - schedule
     - sponsors
+    - team
     - partners
     - coc
     - social
@@ -38,6 +39,7 @@ params:
     speakers: "Speakers"
     schedule: "Schedule"
     sponsors: "Sponsors"
+    team: "Team"
     partners: "Partners"
     contact: "Contact"
     coc: "Code of Conduct"
@@ -54,6 +56,9 @@ params:
 
   # List of Partners
   Partners:
+    - name: "Container Solutions"
+      logo: "/img/cs.jpg"
+      url: "https://container-solutions.com/"
     - name: "Container Solutions"
       logo: "/img/cs.jpg"
       url: "https://container-solutions.com/"
