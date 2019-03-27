@@ -15,7 +15,6 @@ params:
   Address: "Piet Heinkade 179, 1019 HC"
   City: "Amsterdam"
   State: "The Netherlands"
-  Images: ["/img/background.jpg"]
   GoogleMapsKey: "AIzaSyBIn3t-h0jnfK1qaYz-WOkr_lG3ku8jpjw"
 
   # Active sections on the website to deactivate comment out with '#'
